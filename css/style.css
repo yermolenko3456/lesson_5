@@ -1,0 +1,157 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto:wght@300;700;900&family=Rubik+Dirt&family=Rubik+Moonrocks&family=STIX+Two+Text:ital,wght@0,500;0,700;1,500&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto:wght@300;700;900&family=Rubik+Dirt&family=Rubik+Moonrocks&family=STIX+Two+Text:ital,wght@0,500;0,700;1,500&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto:wght@300;700;900&family=Rubik+Dirt&family=Rubik+Moonrocks&family=STIX+Two+Text:ital,wght@0,500;0,600;0,700;1,500&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto:wght@300;400;700;900&display=swap');
+
+body {
+	font-family: "Roboto",fantasy;
+	font-weight: 400;
+	line-height: 1.5;
+	word-spacing: 10px;
+}
+main{
+ background-color: aquamarine;
+}
+header {
+	background-color: rgb(205, 171, 238);
+	color: rgb(71, 6, 6);
+	text-decoration: line-through; 
+	text-align: right;
+	padding-right: 50px;
+}
+a {
+	color: red;
+	padding-left: 25px;
+	font-size: 20px;
+}
+h1{
+	color:rgb(10, 10, 10);
+	font-family: "Rubik Moonrocks",fantasy;
+	font-size: 60px;
+	font-weight: 600;
+	text-align: center;
+	text-decoration: underline;
+	letter-spacing: 10 px;
+	word-spacing: 20px;
+	margin-bottom: 20px;
+}
+h2{
+	color: darkblue;
+	font-family: "Rubik Dirt", fantasy;
+	font-size: 30 px;
+	letter-spacing: 10 px;
+	word-spacing: 15px;
+	text-shadow: 5px 5px 10px rgb(34, 33, 33) ;
+	margin-bottom: 10px;
+}
+p {
+	color:brown ;
+}
+ol {
+	text-align: center;
+	margin: 25px;
+}
+li{
+	color: rgb(13, 61, 11);
+	font-family:"STIX Two Text", normal;
+	font-style: italic;
+	padding: 10px;
+}
+.first-content {
+  background-color: chartreuse;
+  width: 1800px;
+  margin: 20px 5px 10px 10px;
+  padding: 15px 10px 5px 20px;
+}
+.link {
+	margin-bottom: 5px;
+}
+.title-number {
+	color: deeppink;
+	text-decoration: overline;
+	text-shadow: 3px 3px 8px rgb(255, 2, 2) ;
+}
+.text-1 {
+	color: blueviolet;
+}
+.text-1~p {
+	color: rgb(248, 6, 107);
+	margin-bottom: 10px;
+}
+.title-text {
+	color: brown;
+	padding-left: 25px;
+	margin-bottom: 20px;
+}
+.second-content {
+	margin: 10px;
+	padding: 15px;
+	background-color: bisque;
+	width: 1400px;
+}
+img {
+	width: 300px;
+	height: 240px;
+}
+.text-2 {
+	color: crimson;
+}
+.text-2 + p{
+	color: darkmagenta;
+	margin-bottom: 10px;
+}
+.third-content {
+	background-color: darkorange;
+	width: 1700px;
+	height: 500px;
+	margin: 10px 20px;
+	padding: 15px 20px;
+}
+.text-3 + img {
+	margin-top: 20px;
+} 
+.third-content .text-2 {
+	color: blue;
+}
+.text-3 {
+	color: rgb(68, 45, 29);
+}
+.text-2~.text-3 {
+	color: oldlace;
+}
+.text-3~.text-2 {
+	margin-bottom: 10px;
+}
+.fourth-content {
+	background-color: gray;
+	margin: 12px;
+	padding: 15px;
+}
+.text-4 {
+	color: rgb(21, 43, 43);
+	text-transform: capitalize;
+}
+.text-5 {
+	color: rgb(32, 75, 155);
+	margin-bottom: 5px;
+}
+.fifth-content {
+	margin: 50px;
+	width: 1000px;
+	background-color: rgb(253, 62, 62);
+	padding: 10px 15px;
+}
+.finish {
+	color: fuchsia;
+	font-family:"STIX Two Text", normal;
+	font-weight: 700;
+	font-size: 30px;
+	padding: 10px;
+}
+.started {
+	padding-left: 50px;
+	width: 400px6ннн;
+}
